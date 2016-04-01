@@ -16,13 +16,23 @@
 	一旦进入多层嵌套，代码就会变成巨大的庞然大物，分散我们编写程序的注意力。就像这样：
 </p>
 <p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
-	<img src="http://img.blog.csdn.net/20160401095303130?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" />
+	<img src="http://img.blog.csdn.net/20160401101235153" alt="" /><br />
+	
+</p>
+<p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
+	<br />
+	
 </p>
 <p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
 	引用 Angular中介绍的一段话---“<span style="color:rgb(51,51,51); font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; line-height:20px">回调的使用会打乱你的代码的可读性，让你的代码变得支离破碎，很难看清本来的业务逻辑。移除一些常见的代码，例如回调，是件好事。能让你把自己应用的逻辑看得更清楚”</span>
 </p>
 <p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
-	<img src="http://img.blog.csdn.net/20160401095313270?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" alt="" />
+	<br />
+	
+</p>
+<p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
+	<img src="http://img.blog.csdn.net/20160401101733670" alt="" /><br />
+	
 </p>
 <p style="margin-top:0px; margin-bottom:0px; padding-top:0px; padding-bottom:0px; font-family:Arial; font-size:14px; line-height:26px">
 	我们可以通过注解分解解嵌套
